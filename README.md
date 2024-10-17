@@ -10,6 +10,8 @@ Step 4: If you encounter an error, I would recommend you to re-write that line o
 
 step 5: Hit run and experience the work of opencv-python
 
+## Key steps include converting the image to grayscale, applying edge detection, and contour detection to identify objects. The project is useful for tasks requiring precise measurements in fields like manufacturing, 3D modeling, and augmented reality.
+
 ![img](warped_img.png)
 
 ### Links
