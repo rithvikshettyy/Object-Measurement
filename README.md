@@ -8,6 +8,6 @@ Step 3: A folder will be created on your Desktop, open the folder in Pycharm and
 
 Step 4: If you encounter an error, I would recommend you to re-write that line of code which shows the error.
 
-step 5: Hit run and expirience the work of opencv-python
+step 5: Hit run and experience the work of opencv-python
 
 ![img](https://github.com/rithvikshettyy/Object-Measurement/edit/main/warped_img.png)
