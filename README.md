@@ -10,4 +10,4 @@ Step 4: If you encounter an error, I would recommend you to re-write that line o
 
 step 5: Hit run and expirience the work of opencv-python
 
-![img](https://github.com/rithvikshettyy/Object-Measurement/main/warped_img.png)
+![img](https://github.com/rithvikshettyy/Object-Measurement/edit/main/warped_img.png)
